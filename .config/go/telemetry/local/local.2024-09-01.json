@@ -1,0 +1,23 @@
+{
+ "Week": "2024-09-01",
+ "LastWeek": "",
+ "X": 0.05531423984791073,
+ "Programs": [
+  {
+   "Program": "golang.org/x/tools/gopls",
+   "Version": "devel",
+   "GoVersion": "go1.21.10",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "gopls/client:other": 13,
+    "gopls/definition/latency:\u003c100ms": 1,
+    "gopls/definition/latency:\u003c10ms": 8,
+    "gopls/goversion:1.21": 13,
+    "gopls/hover/latency:\u003c10ms": 2
+   },
+   "Stacks": {}
+  }
+ ],
+ "Config": "v0.31.0"
+}
